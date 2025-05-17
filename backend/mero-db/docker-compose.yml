@@ -1,0 +1,16 @@
+services:
+  mero_db:
+    image: postgres:17
+    container_name: mero_db
+    env_file:
+      - .env
+    ports:
+      - "${POSTGRES_PORT}:${POSTGRES_PORT}"
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+    networks:
+      - mero_net
+
+networks:
+  mero_net:
+    driver: bridge
