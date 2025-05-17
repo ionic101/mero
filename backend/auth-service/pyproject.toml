@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "auth-service"
+version = "0.1.0"
+description = ""
+authors = ["ionic101 <iv.osipov2004@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sqlalchemy = "^2.0.41"
+fastapi = "^0.115.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
