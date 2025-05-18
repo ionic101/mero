@@ -1,0 +1,184 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="NxH88v12OnXZXsuJEJ3m">
+    <mxGraphModel dx="3000" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-13" target="uO1FJxmTBQrvxMb-sANJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-19" value="регистрирует" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-18">
+          <mxGeometry x="-0.046" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-13" value="Админ" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-15" value="Участник" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="700" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-16" target="uO1FJxmTBQrvxMb-sANJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-23" value="регистрирует" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-22">
+          <mxGeometry x="-0.0648" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-16" value="Партнер" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="479" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-17" target="uO1FJxmTBQrvxMb-sANJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-21" value="регистрирует" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-20">
+          <mxGeometry x="-0.0345" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-17" value="Организатор" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="247" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-25" target="uO1FJxmTBQrvxMb-sANJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-36" value="регистрирует участника&lt;div&gt;в системе мероприятий&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-35">
+          <mxGeometry x="-0.0817" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-25" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="1">
+          <mxGeometry x="479" y="891" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-30" target="uO1FJxmTBQrvxMb-sANJ-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="149" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-34" value="оставляет свои данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-33">
+          <mxGeometry x="-0.1049" y="-1" relative="1" as="geometry">
+            <mxPoint x="109" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-26" target="uO1FJxmTBQrvxMb-sANJ-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="149" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-80" value="оставляет свои данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-79">
+          <mxGeometry x="0.2861" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-26" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="110" y="671" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-27" target="uO1FJxmTBQrvxMb-sANJ-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649" y="941" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="669" y="709.9999999999999" />
+              <mxPoint x="669" y="929.9999999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-38" value="возвращает token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-37">
+          <mxGeometry x="-0.0025" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-27" target="uO1FJxmTBQrvxMb-sANJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-40" value="присылает token&lt;div&gt;на почту&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-39">
+          <mxGeometry x="0.6113" y="-1" relative="1" as="geometry">
+            <mxPoint x="99" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-27" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="1">
+          <mxGeometry x="479" y="671" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-28" value="MeroAPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="488" y="749" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-29" value="Сайт организатора" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="457.25" y="979" width="121.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-30" value="Участник" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="108.5" y="750" width="81" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-57" target="uO1FJxmTBQrvxMb-sANJ-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="479" />
+              <mxPoint x="649" y="239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-65" value="возвращает список&lt;div&gt;участников&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-64">
+          <mxGeometry x="-0.0134" y="1" relative="1" as="geometry">
+            <mxPoint y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-57" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="1">
+          <mxGeometry x="479" y="440" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-58" target="uO1FJxmTBQrvxMb-sANJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-69" value="регистрирует участника&lt;div&gt;в системе мероприятий&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-68">
+          <mxGeometry x="-0.064" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-58" value="Yandex Forms" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="488" y="530" width="60" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-60" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="479" y="200" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-61" target="uO1FJxmTBQrvxMb-sANJ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-63" value="создает Яндекс форму" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uO1FJxmTBQrvxMb-sANJ-62">
+          <mxGeometry x="0.0483" relative="1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-61" value="Организатор" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="280" width="81" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-74" value="Микросервис&lt;div style=&quot;font-size: 14px;&quot;&gt;auth&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="320" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-75" target="uO1FJxmTBQrvxMb-sANJ-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-75" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="452" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-76" value="Пользователь" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="990" y="530" width="140" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uO1FJxmTBQrvxMb-sANJ-82" target="uO1FJxmTBQrvxMb-sANJ-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-82" value="NGINX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="461" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uO1FJxmTBQrvxMb-sANJ-86" value="Микросервис&lt;div style=&quot;font-size: 14px;&quot;&gt;mero-control&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="461" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
