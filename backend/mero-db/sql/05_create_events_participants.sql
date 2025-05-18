@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS events_participants (
-    id             BIGINT     PRIMARY KEY,
+    id             BIGSERIAL     PRIMARY KEY,
     token          BIGINT     NOT NULL UNIQUE,
     event_id       BIGINT     NOT NULL
         REFERENCES events(id)

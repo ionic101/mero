@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS participants_masterclasses (
-    id               BIGINT     PRIMARY KEY,
+    id               BIGSERIAL     PRIMARY KEY,
     participant_id   BIGINT     NOT NULL
         REFERENCES participants(id)
         ON DELETE CASCADE

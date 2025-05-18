@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS masterclasses (
-    id                       BIGINT     PRIMARY KEY,
+    id                       BIGSERIAL     PRIMARY KEY,
     name                     VARCHAR(255) NOT NULL,
     time_start               TIMESTAMP   NOT NULL,
     time_end                 TIMESTAMP   NOT NULL,

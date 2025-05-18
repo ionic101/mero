@@ -5,7 +5,7 @@ from auth_service.models import BaseModel
 class MasterclassesModel(BaseModel):
     __tablename__ = 'masterclasses'
 
-    id = Column(BIGINT, primary_key=True)
+    id = Column(BIGINT, primary_key=True, index=True)
     name = Column(VARCHAR(255), nullable=False)
     time_start = Column(TIMESTAMP(timezone=True), nullable=False)
     time_end = Column(TIMESTAMP(timezone=True), nullable=False)
