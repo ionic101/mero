@@ -21,7 +21,7 @@ async def register_event(request: EventRegisterRequest, db: AsyncSession = Depen
         password = request.password
     )
     await async_session.add_record_db(db, new_event)
-    return {'status': 'success'}
+    return {'status': 'success', 'event_id': new_event.id}
 
 
 @event_router.post('/login')
