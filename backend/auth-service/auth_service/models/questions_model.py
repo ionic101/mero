@@ -5,7 +5,7 @@ from auth_service.models import BaseModel
 class QuestionsModel(BaseModel):
     __tablename__ = 'questions'
 
-    id = Column(BIGINT, primary_key=True, index=True)
+    id = Column(BIGINT, primary_key=True, autoincrement=True)
     question = Column(VARCHAR(1000), nullable=False)
     answer = Column(VARCHAR(1000))
     questioner_id = Column(

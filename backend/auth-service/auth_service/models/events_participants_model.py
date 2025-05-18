@@ -5,7 +5,7 @@ from auth_service.models import BaseModel
 class EventsParticipantsModel(BaseModel):
     __tablename__ = 'events_participants'
 
-    id = Column(BIGINT, primary_key=True, index=True)
+    id = Column(BIGINT, primary_key=True, autoincrement=True)
     token = Column(BIGINT, nullable=False, unique=True)
     event_id = Column(
         BIGINT,

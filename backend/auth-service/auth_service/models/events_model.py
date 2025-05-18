@@ -7,7 +7,7 @@ class EventsModel(BaseModel):
 
     id = Column(BIGINT, primary_key=True, autoincrement=True)
     name = Column(VARCHAR(255), nullable=False)
-    login = Column(VARCHAR(255), nullable=False)
+    login = Column(VARCHAR(255), nullable=False, unique=True)
     password = Column(VARCHAR(255), nullable=False)
     map_url = Column(VARCHAR(255), nullable=True)
     faq = Column(TEXT, nullable=True)

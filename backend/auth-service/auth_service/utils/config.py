@@ -14,6 +14,8 @@ class Config(BaseSettings):
     DB_PORT: int = int(environ.get('DB_PORT', 5432))
     APP_HOST: str = environ.get('APP_HOST', '0.0.0.0')
     APP_PORT: int = int(environ.get('APP_PORT', 8000))
+    JWT_SECRET_KEY: str = environ.get('JWT_SECRET_KEY', 'example_key')
+    JWT_ALGRORITHM: str = environ.get('JWT_ALGRORITHM', 'HS256')
 
     @property
     def DB_URL(self) -> str:

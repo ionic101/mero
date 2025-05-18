@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "auth-service"
+name = "event-service"
 version = "0.1.0"
 description = ""
 authors = ["ionic101 <iv.osipov2004@gmail.com>"]
@@ -7,13 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-sqlalchemy = "^2.0.41"
 fastapi = "^0.115.12"
 uvicorn = "^0.34.2"
-pydantic-settings = "^2.9.1"
-dotenv = "^0.9.9"
-asyncpg = "^0.30.0"
-pyjwt = "^2.10.1"
 
 
 [build-system]
