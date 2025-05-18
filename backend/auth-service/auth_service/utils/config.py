@@ -19,7 +19,6 @@ class Config(BaseSettings):
 
     @property
     def DB_URL(self) -> str:
-        print(self.DB_USERNAME, self.DB_PASSWORD, '\n'*19)
         return f'postgresql+asyncpg://{self.DB_USERNAME}:{self.DB_PASSWORD}@{self.DB_HOST}:{self.DB_PORT}/{self.DB_NAME}'
 
 
